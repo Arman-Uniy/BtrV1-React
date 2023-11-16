@@ -1,0 +1,42 @@
+.soccer-random-container {
+  width: 100%;
+  height: 900;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #222222;
+}
+.soccer-random-container1 {
+  width: 100%;
+  height: 853px;
+  opacity: 0.99;
+  align-self: center;
+}
+.soccer-random-container2 {
+  display: contents;
+}
+.soccer-random-container3 {
+  width: 100%;
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.soccer-random-text {
+  color: #ffffff;
+  align-self: center;
+}
+.soccer-random-text1 {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 900;
+}
+.soccer-random-text3 {
+  color: #ffffff;
+}
+.soccer-random-text4 {
+  color: #ffffff;
+}

@@ -1,0 +1,42 @@
+.volley-random-container {
+  width: 100%;
+  height: 900;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #222222;
+}
+.volley-random-container1 {
+  width: 100%;
+  height: 853px;
+  opacity: 0.99;
+  align-self: center;
+}
+.volley-random-container2 {
+  display: contents;
+}
+.volley-random-container3 {
+  width: 100%;
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.volley-random-text {
+  color: #ffffff;
+  align-self: center;
+}
+.volley-random-text1 {
+  font-size: 1em;
+  font-style: normal;
+  font-weight: 900;
+}
+.volley-random-text3 {
+  color: #ffffff;
+}
+.volley-random-text4 {
+  color: #ffffff;
+}

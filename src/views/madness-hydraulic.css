@@ -1,0 +1,28 @@
+.madness-hydraulic-container {
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: hidden;
+  min-height: 100vh;
+  padding-top: 0px;
+  margin-bottom: 0;
+  flex-direction: column;
+  background-color: #222222;
+}
+.madness-hydraulic-container1 {
+  top: 0px;
+  left: NaNpx;
+  width: 99.99%;
+  height: 99.99%;
+  opacity: 0.9998999999999999;
+  position: absolute;
+}
+.madness-hydraulic-container2 {
+  display: contents;
+}
+@media(max-width: 479px) {
+  .madness-hydraulic-container {
+    border-color: var(--dl-color-gray-black);
+    border-width: 1px;
+  }
+}

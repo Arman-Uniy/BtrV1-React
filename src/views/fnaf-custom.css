@@ -1,0 +1,36 @@
+.fnaf-custom-container {
+  width: fit-content;
+  height: fit-content;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  border-color: #ffffff;
+  border-width: 0.1px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #222222;
+}
+.fnaf-custom-container1 {
+  flex: 0 0 auto;
+  width: 101%;
+  height: 101%;
+  display: flex;
+  align-items: flex-start;
+}
+.fnaf-custom-container2 {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  width: 99.99%;
+  bottom: 0px;
+  height: 99.99%;
+  margin: auto;
+  opacity: 0.99;
+  position: absolute;
+  align-self: center;
+}
+.fnaf-custom-container3 {
+  display: contents;
+}
